@@ -1,4 +1,4 @@
 theme: jekyll-theme-merlot
-show_downloads: ["false"]
+show_downloads: "false"
 title: [Start a Business]
 description: [My musings on starting a business]
