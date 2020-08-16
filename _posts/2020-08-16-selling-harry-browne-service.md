@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How Harry Browne's Selling Process Rests upon the Principle of Service"
+date:   2020-08-16 18:25:54 -0400
 categories: business-course sales
 ---
 
