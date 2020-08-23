@@ -24,10 +24,10 @@ As an employee, I'm constrained to a certain set of tasks or areas of responsibi
 
 As a business owner, my rewards come solely from sastifying the most customers possible in an ongoing relationship.  The world is always changing.  Robotic automation and its software correlate are real trends that are happening now.  The status quo is always being disrupted.  
 
-> How can I take advantage or leverage these trends?  What changes do I need to make today, tomorrow, next month to ensure that I'm in a position to really serve my customers?
+> How can I take advantage of or leverage these trends?  What changes do I need to make today, tomorrow, next month to ensure that I'm in a position to really serve my customers?
 
 A business owner has greater flexibility (and direct motivation) to answer these questions.
 
 ## Conclusion
 
-The old way is dead.  The old way is always dying.  The pace of change in the economy is very likely to continue to accelerate.  If I decide today to set up one or more businesses that acknowledge and leverage these trends, I'll be putting myself in a great position.  That is a position with a mindset of being aware of the market, anticipating the market, and adjusting to the new reality ___before___ it arrives.
+The old way is dead.  The old way is always dying.  The pace of change in the economy is very likely to continue to accelerate.  If I decide today to set up one or more businesses that acknowledge and leverage these trends, I'll be putting myself in a great position.  That is a position with a mindset of being aware of the market, anticipating the market, and adjusting to the new reality ___before___ it arrives.  In ten years, much will change and with that change will be opportunity.
