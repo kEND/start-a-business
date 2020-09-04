@@ -2,6 +2,7 @@
 layout: post
 title:  "My Calling"
 categories: business-course book goal-setting
+date:   2020-08-30 16:17:54 -0400
 ---
 <!-- circa 30 Aug 2020 after conversation with Mylo -->
 
@@ -25,7 +26,7 @@ This is the season where we live overseas ideally in a gateway city.  We don't k
 
 ## The calling (specifically my calling)
 
-__My current calling is to be the care coordinator and caregiver for my elderly father__ who lives in our home.  This is the single most important thing I can do in which I'm most difficult to replace.  My responsibilities--as husband, father, home church leader, fellow brother in Christ, friend to my peers--continue on.
+__My current calling is to be the care coordinator and caregiver for my elderly father__ who lives in our home.  This is the single most important thing I can do in which I'm most difficult to replace.  My responsibilities--as husband, father, home church leader, fellow brother in Christ, friend to my peers, steward of our finances--continue on.
 
 The venn diagram below captures what Julie and I honed in on as a potential calling for the long haul.
 
