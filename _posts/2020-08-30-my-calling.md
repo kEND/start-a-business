@@ -81,3 +81,7 @@ The venn diagram below captures what Julie and I honed in on as a potential call
 
 
 > Bringing these three together, I have a calling, perhaps in the third season, to run a software development consultancy providing offshore project-based services to US companies.  This will be a Business As a Mission.  I'll be recruiting local university talent to work and learn in the company providing for their families.  I'll be bringing the life of Jesus into their lives and, by the grace of God, seeing them won into the Kingdom as solid disciples of Christ.  Likewise, Julie and I will be providing member care for missionaries and their families in the surrounding region.
+
+A less wordy version...
+
+> I have a calling to start and run a foreign-based software development consultancy as a two-fold mission:  to bring the transforming life of Jesus into the lives of young, local software developers and their families, and; to provide regionally local member care for foreign-based missionaires and their families.

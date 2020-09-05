@@ -9,7 +9,7 @@ categories: business-course goal-setting
 ```
  1. Write a one-paragraph answer for each of these questions:
 
-    What am I willing to settle for having achieved one year from now?
+    
 
     What am I willing to settle for having achieved five years from now?
 
@@ -18,17 +18,10 @@ categories: business-course goal-setting
 2. Write 250 words on this: "How can the strategy of going the extra mile help me attain these goals?" 
 ```
 
-> How will I add value that is worth paying for in 2030?
+## With respect to [my calling]({% post_url 2020-08-30-my-calling %})...
 
-  1.  Start and grow a local service business
-      - Many houses and apartments today will be in use in 2030.  
-      - So, these customers will need plumbing, HVAC, etc.
+> I have a calling to start and run a foreign-based software development consultancy as a two-fold mission:  to bring the transforming life of Jesus into the lives of young, local software developers and their families, and; to provide regionally local member care for foreign-based missionaires and their families.
 
-  2.  Start and run a home automotion installation and service business
-      - Many upper income clients will want these new robotic features will need them installed and serviced.
+### What am I willing to settle for having achieved one year from now?
 
-  3.  Develop software tools that overlay solid business principles and modern marketing and customer service to local service workers.
-      - Harness the skills of local service workers (e.g. plumbers)
-      - provide modern marketing and business accumen.  Their clients expect it and they don't want to provide it.  Help them provide it and take a cut of every transaction.
-      - Use personally and then sell / license to others
 
