@@ -6,7 +6,7 @@ date:   2020-08-30 16:17:54 -0400
 ---
 <!-- circa 30 Aug 2020 after conversation with Mylo -->
 
-> I have a calling to start and run a foreign-based software development consultancy as a two-fold mission:  to bring the transforming life of Jesus into the lives of young, local software developers and their families, and; to provide regionally local member care for foreign-based missionaires and their families.
+> I have a calling to start and run a foreign-based software development consultancy as a two-fold mission:  to bring the transforming life of Jesus into the lives of young, local software developers and their families, and; to provide regionally local member care for foreign-based missionaries and their families.
 
 ## The concept of seasons
 
