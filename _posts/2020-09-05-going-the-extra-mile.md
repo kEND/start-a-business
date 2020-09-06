@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Going the extra mile help..."
+title:  "Going the extra mile..."
 categories: business-course goal-setting
 date:   2020-09-05 23:32:54 -0400
 ---
