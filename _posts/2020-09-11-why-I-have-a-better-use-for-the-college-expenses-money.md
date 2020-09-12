@@ -2,6 +2,7 @@
 layout: post
 title:  "Why I have a better use for the college expenses money that I will save by not sending my children to college"
 categories: business-course lesson
+date:   2020-09-11 23:00:54 -0400
 ---
 
 ## To my children:  You have a big decision to make...and it's okay!
