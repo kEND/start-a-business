@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "What are three goals that I am committing to achieve by age 70?"
+categories: business-course goal-setting
+---
+
+> I have a calling to start and run a foreign-based software development consultancy as a two-fold mission:  to bring the transforming life of Jesus into the lives of young, local software developers and their families, and; to provide regionally local member care for foreign-based missionaries and their families.  For more on [my calling]({% post_url 2020-08-30-my-calling %})... 
+
+## By March 2041...
+
+A dozen (or more) young people __are encouraged__ by the story of how God worked through an ethical, profitable, growing software consultancy to impart His love on the workers.  These workers are recruited from the local university in the country to which God has called us to serve.
+
+## By March 2041...
+
+Three (or more) software developers from our host country and their families __live__ lives led by Jesus.  And at least one of them is successfully discipling others who are discipling others in following Jesus.
+
+## By March 2041...
+
+One missionary family (at least) __stayed__ on the field past the critical eighth year _and_ were faithful and fruitful in their God-given work.  Our respite and member care played a primary role in them doing so.
+
+## Why are these goals important?
+
+I am 49 years old.  By the grace of God, I have experienced success in this life, mostly in my family life.  I want to use my experience in business to influence young people in this life and into the next life.  Any who come to know and follow the Lord through my faithful efforts will be my brothers forever and I will receive an eternal reward far greater than anything available in this life!
+
+## How will owning my own business increase the likelihood that I will attain them?
+
+Business as a mission is a very challenging prospect.  You are starting a business with the purpose of being a blessing to the workers and their families in a foreign country.  You and they both need this business to be profitable and sustaining.  
+
+Owning and successfully building my own software consultancy gives me the confidence to start a business that operates in the same way, even though there will be many challenges, culturally and legally, in operating the business.
+
+Any additional businesses I start between now and when we launch our overseas efforts will strengthen me as a businessman.  I'll have plenty of opportunities to learn and grow in the areas of marketing, advertising, and sales.  These businesses may also provide signficant funding support so we can go overseas and start a business as a mission.
+
+Additionally, and probably most importantly, the challenge of starting a new business now will force me to refresh and deepen my goal-setting and time-management systems.  I've been strong in time-management, but weak in tying that into clear vision-based goals.
