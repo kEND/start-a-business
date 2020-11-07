@@ -2,6 +2,7 @@
 layout: post
 title:  "What would it take for Dr. North to persuade me to use Spreeder for 10 minutes a day?"
 categories: business-course lesson
+date:   2020-11-07 14:15:54 -0400
 ---
 
 ### The Art of Persuasion
