@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How To Know Man
+title:  The Church and God’s Work
 categories: spiritual
 date:   2020-11-08 21:25:54 -0400
 ---
