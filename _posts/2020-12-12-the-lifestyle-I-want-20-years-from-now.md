@@ -2,6 +2,7 @@
 layout: post
 title:  "The lifestyle I want 20 years from now."
 categories: business-course lesson
+date:   2020-12-12 14:05:54 -0400
 ---
 
 ### What future lifestyle?
