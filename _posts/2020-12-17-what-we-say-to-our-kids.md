@@ -28,7 +28,7 @@ So what's wrong with this advice?
 The focus is entirely selfish.  We want what's best for our kids.  But, when we tell them these things, we reinforce what the world system constantly pours into their minds--serve yourself.  Rabbi Lapin says the morally right thing to do is to focus completely on __serving others__.  He continues...
 
 >  This isn't about the money. It's about your relationship with other people.  You've got to find what
-other people need and want and then learn how to get passionate about supplying it.  ___The passion follows what needs doing___ 
+other people need and want and then learn how to get passionate about supplying it.  ___The passion follows what needs doing.___
 >
 > &mdash; <cite>Rabbi Daniel Lapin [ibid](https://youtu.be/lVS0vIkTrsw?t=2124){:target="_blank" rel="noopener"}</cite>  
 
