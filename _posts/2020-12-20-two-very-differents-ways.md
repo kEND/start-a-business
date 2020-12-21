@@ -8,7 +8,7 @@ date:   2020-12-20 22:00:54 -0400
 ### Book & Chapter
 
 - ___The Release of The Spirit___ by Watchman Nee
-- Chapter 9: Two Very Different Ways
+- Chapter 10: Two Very Different Ways
 
 ## Summarize
 
